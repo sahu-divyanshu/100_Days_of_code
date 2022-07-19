@@ -1,5 +1,5 @@
 // tomorrow's section challange
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main (){
     int no_of_small_rooms;
@@ -30,7 +30,7 @@ int main (){
     cout << "total cost $" << total << endl;
 
 return 0;
-}*/
+}
 //array and vector
 // name of array is the loaction of the array
  #include<iostream>
@@ -42,8 +42,8 @@ return 0;
     cout << vowels[0] << endl;
     cout << vowels[4] << endl;
 
-    vector <int> test_score(3); //3 elements ,all are initialized to zero
-    vector <int> test_score(3,100); // 3 elements ,all initialized to 100
+    //vector <int> test_score(3); //3 elements ,all are initialized to zero
+    // vector <int> test_score(3,100); // 3 elements ,all initialized to 100
     
     vector <int> test_score{100,98,89};
     cout << "test score using array syntax" << endl;
