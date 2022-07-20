@@ -41,3 +41,35 @@ int main (){
 
 return 0;
 }
+
+#include<iostream>
+using namespace std;
+int main()
+{
+	int num1(10);
+	int num2(20);
+	num1 = num2 = 1000; // same value is assigned to both
+	cout<<"num1 is" << num1<<endl;
+	cout<<"num2 is" << num2<<endl;
+	
+	num1 = num2 ; //2nd ki value 1st me aa jayegi
+	cout<<"num1 is" << num1<<endl;
+	cout<<"num2 is" << num2<<endl;
+	
+	cout<<endl;
+	return 0;
+}
+#include<iostream>
+using namespace std;
+int main ()
+{
+	const double usd_per_eur(1.19);
+	double euro(0.0);
+	double usd(0.0);
+
+	cout<<"enter the value of euro you want to convert in usd"<<endl;
+	cin>>euro;
+	usd = euro*usd_per_eur;
+	cout <<euro<<" eoros are equivalent to "<<usd<<" dollar";
+}
+ 
