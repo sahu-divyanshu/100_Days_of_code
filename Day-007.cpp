@@ -30,7 +30,7 @@ int main(){
 	
 	{cost = cost + (cost*10/100);
 	cout << "cost is" << cost << endl;}
-    
+
 	else 
 	cout<<"cost is"<< cost <<endl;
 	
