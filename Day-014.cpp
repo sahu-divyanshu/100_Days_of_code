@@ -45,5 +45,4 @@ int main (){
     enemy->xp = 15;
     enemy ->talk("i will deatry you");
     return 0;
-
 }
