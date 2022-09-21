@@ -531,5 +531,331 @@ Output in 2D
 Row-Wise input in 2D Arrays
 Column-Wise Input in 2D Arrays
 
+ ### :date: *DAY 44*
+* :calendar: 29-08-2022 SUNDAY
+
+Today i solved some problems of 2d arrays on leetcode -
+1. Linear Search in 2D Arrays
+2. Row-wise sum
+3. Largest Row sum problem
+4. wave print problem
+5. Spiral print problem
+6. Search a 2D Matrix using binary search
+
+ ### :date: *DAY 45*
+* :calendar: 30-08-2022 MONDAY
+
+Today i solved 4 question on leet code and code studio -
+1. Rotate Image
+2. Search a 2D matrix Lvl 2
+3. count primes (using sieve eratosthenes)
+4. Modular Exponentiation
+
+Today i have learnt about -
+Sieve of Eratosthenes
+Segmented Sieve
+GDC/HCF
+Euclid's Algo
+Pointer
+Why do we need pointers?
+Playing with pointers
+Null Pointer and value access
+Copying a pointer
+Pointer Airthmetic
+Array And Address
+Playing with array and pointers
+Array Vs Pointer
+Size
+Address
+Symbol Table
+Char Arrays with pointers
+char with pointers
+Pointers & Functions
+
+ ### :date: *DAY 46*
+* :calendar: 31-08-2022 TUESDAY
+
+*Today i solved 15 + MCQ's on Pointer and Double Pointers
+And 1 problem of leetcode
+
+Today i have learnt about -
+->why *int
+->Double Pointer
+->Double Pointer and functions
+
+ ### :date: *DAY 47*
+* :calendar: 1-09-2022 WEDDAY
+
+Today i have learnt about -
+
+-> Reference Variables
+-> Why we use reference Variables
+-> Pass by reference
+-> Return by Reference(bad)
+-> Variable Size Array
+-> Dynamic memory alloccation
+-> Static vs Dynamic
+-> Manually releasing dynamic memory "delete" keyword
+-> Void pointer
+-> why we need void pointer
+
+ ### :date: *DAY 48*
+* :calendar: 2-09-2022 THRUSDAY
+
+Today i solved 13 question on leet code and code studio -
+1. Power of 2 using recursion
+2. Factorial using recursion
+3. Print counting using recursion
+4. Fibonacci Series using recursion
+5. Climb Stairs using recursion
+6. Say Digits using recursion
+7. Sorted Array using recursion
+8. Linear Search using recursion
+9. Binary Search using recursion
+10. Reverse String using recursion
+11. Check Palindrome using recursion
+12. Calculating Power using recursion
+13. Bubble sort using recursion
+
+Some of above questions are solved in my VS Code only*
+
+Today i have learnt about -
+2D Array Dynamic memory allocation
+Taking Input/output in Dynamic 2D Array
+Releasing memory
+Chain Macros
+Multi Line Macro
+Function Like Macro
+Global Variable
+Inline Function
+Default Arguments
+Document Reference
+
+I was able to do that much because its a day off from my college
+
+### :date: *DAY 49*
+* :calendar: 3-09-2022 FRIDAY
+
+Today I solved 2 question on leet code and code studio -
+1. Merge Sort
+2. Quick Sort
+
+### :date: *DAY 50*
+* :calendar: 4-09-2022 SATURDAY
+
+
+Today i solved 5 question on leet code and code studio -
+1. subsets
+2. subsequences of string
+3. Letter Combinations of a Phone Number
+4. permutations of a string
+5. Rat in a maze problem
+
+Today i have learnt about -
+Time complexity of FACTORIAL using recursion
+Time complexity of BINARY SEARCH using recursion
+Time complexity of MERGE SORT using recursion
+Time complexity of FIBONACCI SERIES using recursion
+
+Space complexity of FACTORIAL using recursion
+Space complexity of BINARY SEARCH using recursion
+Space complexity of MERGE SORT using recursion
+Space complexity of FIBONACCI SERIES using recursion
+
+And revised some concepts of OPPS
+Class and Objects
+Empty class
+Access Modifers
+Getter
+Setter
+Static Vs Dynamic allocation in objects
+Constructor
+Default Constructor
+Parameterised Constructor
+
+### :date: *DAY 51*
+* :calendar: 5-09-2022 SUNDAY
+
+Today i have learnt about -
+This Keyword
+Copy Constructor
+Shallow copy
+Deep Copy
+Assignment Operator
+Destructor
+Static Keyword
+Static Functions
+Encapsulation
+Full Encapsulation
+Inheritance
+Access Modifiers - Public , Protected , Private
+->Types of inheritance -
+1. Single
+2. Multi-level
+3. Multiple
+4. Hierarchical
+5. Hybrid
+Inheritance Ambiguity
+Polymorphism
+Compile Polymorphism
+Run Time Polymorphism
+Abstraction
+Why linked list
+Linked list vs dynamic array vs vector
+Singly linked list-
+Insert at Head
+Insert at Tail
+Insert at Position
+Deletion at position
+
+### :date: *DAY 52*
+* :calendar: 6-09-2022 MONDAY
+
+Today i have learnt about -
+
+~Doubly Linked List -
+1. Insertion at Head
+2. Insertion at Tail
+3. Traversal
+4. Insertion at position
+5. Deletion at any Node
+
+~Circular Linked List
+1. Insertion using Values
+2. Traversal
+3. Deletion using Value
+
+### :date: *DAY 53*
+* :calendar: 7-09-2022 TUESDAY
+
+Today i solved 5 question on leet code and code studio -
+1. Reverse a linked list
+2. Middle of Linked List
+3. Reverse linked list in K order
+4. Circular list or not
+5. Detect cycle/Loop in linked list
+
+### :date: *DAY 54*
+* :calendar: 8-09-2022 WEDDAY
+
+Today i solved 8 question on geeks for geeks and code studio -
+1. Floyd Cycle Detection
+2. Find Starting node of loop
+3. Remove Loop from Linked List
+4. Remove duplicates in sorted linked list
+5. Sort 0s , 1s and 2s
+6. Merge Two Sorted Linked List
+7. Check Palindrome in Linked List
+8. Add 2 numbers represented by linked listToday i solved 8 question on geeks for geeks and code studio -
+1. Floyd Cycle Detection
+2. Find Starting node of loop
+3. Remove Loop from Linked List
+4. Remove duplicates in sorted linked list
+5. Sort 0s , 1s and 2s
+6. Merge Two Sorted Linked List
+7. Check Palindrome in Linked List
+8. Add 2 numbers represented by linked list
+
+### :date: *DAY 55*
+* :calendar: 8-09-2022 THRUSDAY
+
+Today i solved 2 question on leet code and code studio -
+1. clone linked list with next and random pointer
+2. merge sort in linked list
+
+Today i have learnt about -
+Stack functions using STL -
+push()
+pop()
+peak()
+display()
+
+### :date: *DAY 56*
+* :calendar: 9-09-2022 FRIDAY
+
+Today i solved 6 question on leet code and code studio -
+1. Two Stacks
+2. Reverse a string using stack
+3. Delete Middle Element From Stack
+4. Valid Parenthrses
+5. Insert element a bottom of stack
+6. Reverse Stack Using Recursion
+
+And build basic functions of stack-
+push()
+pop()
+peak()
+display()
+isEmpty()
+
+### :date: *DAY 57
+* :calendar: 10-09-2022 SATURDAY
+
+Today i solved 3 question on code studio -
+
+1. sort stack
+2. Redundant Brackets
+3. Minimum cost to make string valid
+
+### :date: *DAY 58
+* :calendar: 10-09-2022 SATURDAY
+
+Today i have learnt about SQL from Code Help - Love Babbar Lakshay Kumar and W3 Schools -
+What is SQL ?
+What are CRUD operations ?
+SQL vs MY SQL
+SQL Datatypes
+Variable Vs Fixed Datatypes
+Types of SQL commands
+Data Defination Language
+Data read language / data query language
+Dual Tables in SQL
+Select , Where , Between, in , and, or ,not ,is NULL
+Wildcard Characters in SQL
+Sorting in SQL using ORDER BY
+Grouping using GROUP BY
+HAVING KEYWORD
+DLL Key Constraints
+ALTER operations in SQL
+Data Modification Language (DML)
+ON DELETE / SET NULL
+REPLACE vs INSERT
+JOINS -
+INNER JOIN
+OUTER JOIN
+SELF JOIN
+Join without using JOIN keywords
+SET operations in SQL -
+UNION
+INTERSECT
+MINUS
+Sub Queries in SQL
+Views in SQL
+
+### :date: *DAY 59
+* :calendar: 11-9-2022 SUNDAY
+
+Today i solved 2 question on leet code and code studio -
+1. Next Smaller Element (easy)
+2. Largest Rectangle in Histogram (hard)
+
+I am happy to solve my first hard level problem on leetcode
+
+### :date: *DAY 60
+* :calendar: 12-09-2022 MONDAY
+
+Today i revised basics of python -
+Modules
+Comments
+Pip
+Variables & Data Types
+Strings
+Lists & Tuples
+Dictionary & Sets
+Control Statements
+Loops in Python
+Functions & Recursion
+
+
 ## Contributors
   * DIVYANSHU SAHU: :e-mail: divyanshusahucoc@gmail.com
