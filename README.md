@@ -856,6 +856,48 @@ Control Statements
 Loops in Python
 Functions & Recursion
 
+### :date: *DAY 61
+* :calendar: 13-09-2022 TUESDAY
+
+Today i solved 2 question on geeks for geeks -
+1. Celebrity Problem
+2. Max rectangle in binary matrix with all 1's
+
+### :date: *DAY 62
+* :calendar: 14-09-2022 WEDDAY
+
+Today i solved a HARD level problem on code studio -
+1. N Stacks In An Array
+
+### :date: *DAY 63
+* :calendar: 15-09-2022 THRUSDAY
+
+Today i solved question on leet code and code studio -
+1. Design Special Stack Problem
+2. Circular Queue
+3. Input/Output restricted Queue
+4. Double ended Queue
+
+Today i have learnt about -
+Designed Queue Functions
+1. Enqueue
+2. Dequeue
+3. Display
+4. peek
+
+### :date: *DAY 64
+* :calendar: 16-09-2022 FRIDAY
+
+Today i solved 3 question on geeks for geeks -
+1. Queue Reversal
+2. First Negative integer in every window of K
+3. Reverse First K element of Queue
+
+### :date: *DAY 65
+* :calendar: 16-09-2022 FRIDAY
+
+
+
 
 ## Contributors
   * DIVYANSHU SAHU: :e-mail: divyanshusahucoc@gmail.com
