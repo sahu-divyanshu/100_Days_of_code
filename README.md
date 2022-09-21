@@ -311,65 +311,225 @@ Leetcode Questions done -
 * :calendar: 15-08-2022 MONDAY
 
 Today i solved 5 different problem statements -
-- [x]Decimal to binary code
-- [x]Binary to decimal code
-- [x]Reverse integer
-- [x]Complement Base 10 integer
-- [x]Power of two
+- [x] Decimal to binary code
+- [x] Binary to decimal code
+- [x] Reverse integer
+- [x] Complement Base 10 integer
+- [x] Power of two
 
 
 ### :date: *DAY 33*
 * :calendar: 16-08-2022 TUESDAY
 
 Today i revised some concept and solved some problem leet code -
-Switch Case
-Switch Implementation
-Functions
-Why Functions
-Types of function
-Power (a,b)
-nCr Program
-Function call stack
-Pass by Value
-What is Array
-Why array
-Declaration of array
-Indexes in array
-Initialisation of array
-Accessing elements
-Array with Functions
-Pass by reference
-Different Types of arrays
-Minimum and Maximum element
-Linear Search
-Reverse an Array
+- [x] Switch Case
+- [x] Switch Implementation
+- [x] Functions
+- [x] Why Functions
+- [x] Types of function
+- [x] Power (a,b)
+- [x] nCr Program
+- [x] Function call stack
+- [x] Pass by Value
+- [x] What is Array
+- [x] Why array
+- [x] Declaration of array
+- [x] Indexes in array
+- [x] Initialisation of array
+- [x] Accessing elements
+- [x] Array with Functions
+- [x] Pass by reference
+- [x] Different Types of arrays
+- [x] Minimum and Maximum element
+- [x] Linear Search
+- [x] Reverse an Array
 
 ### :date: *DAY 34*
 * :calendar: 17-08-2022 WEDNUSDAY
 
 Today i solved some problems on code studio -
 Find Unique Element
-- [x]Swap Alternates
-- [x]Find Duplicates
-- [x]Array Intersection
-- [x]Pair Sum
-- [x]Sort 0 ,1
+- [x] Swap Alternates
+- [x] Find Duplicates
+- [x] Array Intersection
+- [x] Pair Sum
+- [x] Sort 0 ,1
 
 
 ### :date: *DAY 35*
 * :calendar: 20-08-2022 FRIDAY
 
 Time complexity
-- [x]Complexity Notations
-- [x]Big O notation
-- [x]Solving for time complexity
-- [x]How to avoid TLE
-- [x]Space complexity
-- [x]Solving for space complexity
-- [x]Binary Search
-- [x]Linear Search Vs Binary Search
-- [x]Complexity of binary search Algorithm
-- [x]Build binary search Function
+- [x] Complexity Notations
+- [x] Big O notation
+- [x] Solving for time complexity
+- [x] How to avoid TLE
+- [x] Space complexity
+- [x] Solving for space complexity
+- [x] Binary Search
+- [x] Linear Search Vs Binary Search
+- [x] Complexity of binary search Algorithm
+- [x] Build binary search Function
+ 
+ ### :date: *DAY 36*
+* :calendar: 21-08-2022 SATURDAY
+
+Today i have solved some questions on leet code -
+1. First Occurrence
+2. Last Occurrence
+3. Total number of Occurrence
+4. Peak in Mountain Array
+
+ ### :date: *DAY 37*
+* :calendar: 22-08-2022 SUNDAY
+
+Today i solved some problems on leet code and code studio -
+-> Find Pivot in an array Using Binary Search
+-> Search in a rotated and sorted Array Using Binary Search
+-> Square Root Using Binary Search
+-> Finding the float part of square root
+
+ ### :date: *DAY 38*
+* :calendar: 23-08-2022 MONDAY
+
+Today i solved some problems on code studio -
+Book allocation problem using Binary search
+Painter's Partition Problem using Binary Search
+Aggressive Cows Problem
+Tow stacks Problem
+
+Build Stack Functions -
+Push
+Pop
+Peak
+Display
+
+ ### :date: *DAY 39*
+* :calendar: 24-08-2022 TUESDAY
+
+Today i have learnt about -
+Selection Sort
+Bubble Sort
+Insertion Sort
+
+ ### :date: *DAY 40 *
+* :calendar: 25-08-2022 WEDNUSDAY
+
+Today i solved 2 question on leet code -
+1. Move zeros
+2. Merge 2 sorted arrays
+
+Today i have learnt about Standard Template Library and their pre defined function -
+✅vector
+➡️push_back()
+➡️pop_back()
+➡️clear()
+➡️size()
+➡️capacity()
+✅stack
+➡️push()
+➡️pop()
+➡️top()
+➡️empty()
+➡️size()
+✅queue
+➡️push()
+➡️pop()
+➡️top()
+➡️empty()
+✅set
+➡️insert()
+➡️erase()
+➡️begin()
+➡️end()
+➡️count()
+➡️iterator
+➡️find()
+✅priority queue
+➡️push()
+➡️pop()
+➡️top()
+✅map
+➡️erase()
+➡️begin()
+➡️end()
+➡️count()
+➡️iterator
+➡️find()
+✅list
+➡️push_back()
+➡️push_front()
+➡️erase()
+➡️begin()
+➡️end()
+✅doubly queue
+➡️push_back()
+➡️push_front()
+➡️begin()
+➡️end()
+✅Algorithm
+➡️push_back()
+➡️push_front()
+➡️erase()
+
+ ### :date: *DAY 41 *
+* :calendar: 26-08-2022 THRUSDAY 
+
+Today i solved 5 question on leet code and code studio -
+1. Rotate Array
+2. Check if array is sorted & rotated
+3. Add 2 Arrays (find sum)
+4. Reverse a String
+5. Check Palindrome
+
+Today i have learnt about -
+Intro to char array and strings
+How char arrays are sorted
+Null character
+Input char array
+output char array
+Multiple word and cin limitations
+cout functions and limitations
+
+ ### :date: *DAY 42*
+* :calendar: 27-08-2022 FRIDAY
+
+Today i solved 4 question on leet code and code studio -
+1. Valid Palindrome
+2. Maximum occuring character
+3. Replace Spaces
+4. Remove all occurances of Substring
+
+Today i have learnt about -
+All Inbuilt function of stirng -
+getline()
+push_back()
+pop_back()
+begin()
+end()
+rbegin()
+rend()
+capacity()
+resize()
+length()
+shrink_to_fit()
+swap()
+
+ ### :date: *DAY 43*
+* :calendar: 28-08-2022 SATURDAY
+
+Today i solved 2 question on leet code and code studio -
+1. String compression
+2. Permutation in string
+
+Today i have learnt about -
+Why we need 2D Arrays ?
+How 2D sorted in memory ?
+Creating an 2D Array
+Input 2D Array
+Output in 2D
+Row-Wise input in 2D Arrays
+Column-Wise Input in 2D Arrays
 
 ## Contributors
   * DIVYANSHU SAHU: :e-mail: divyanshusahucoc@gmail.com
