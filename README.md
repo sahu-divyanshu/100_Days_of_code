@@ -251,36 +251,36 @@ Types of Inheritance -
 ### :date: *DAY 27*
 * :calendar: 10-08-2022 WEDNUSDAY
 
-- [x]Singly Linked List -
-- [x]Insert At Head
-- [x]Insert At Tail
-- [x]Insert In Middle
+- [x] Singly Linked List -
+- [x] Insert At Head
+- [x] Insert At Tail
+- [x] Insert In Middle
 
 
 ### :date: *DAY 28*
 * :calendar: 11-08-2022 THURSDAY
 
-- [x]Singly Linked List -
-- [x]Deletion
-- [x]Doubly Linked List -
-- [x]Insert At Head
-- [x]Insert At Tail
-- [x]Insert At Position
+- [x] Singly Linked List -
+- [x] Deletion
+- [x] Doubly Linked List -
+- [x] Insert At Head
+- [x] Insert At Tail
+- [x] Insert At Position
 
 ### :date: *DAY 29*
 * :calendar: 12-08-2022 FRIDAY
 
-- [x]Doubly Linked List -
-- [x]Deletion
-- [x]Circular Linked List -
-- [x]Insert Node
-- [x]Traversal
-- [x]Deletion
+- [x] Doubly Linked List -
+- [x] Deletion
+- [x] Circular Linked List -
+- [x] Insert Node
+- [x] Traversal
+- [x] Deletion 
 
 ### :date: *DAY 30*
 * :calendar: 13-08-2022 SATURDAY
 
-Today I Revised All Control Statements (if else, looping , etc.)
+- [x] Today I Revised All Control Statements (if else, looping , etc.)
 And solved 20+ pattern printing questions using loops
 
 
@@ -288,22 +288,22 @@ And solved 20+ pattern printing questions using loops
 * :calendar: 14-08-2022 SUNDAY
 
 Today i revised some topics listed below and solved some problems on leetcode
-Bitwise operators -
-Bitwise AND
-Bitwise OR
-Bitwise NOT
-Bitwise XOR
-Left And Right shift
-Pre / Post increment
-Pre / Post decrement
-for loop
-continue and break statements
-scope concepts
-Operator precedence and associativity 
+- [x] Bitwise operators -
+- [x] Bitwise AND
+- [x] Bitwise OR
+- [x] Bitwise NOT
+- [x] Bitwise XOR
+- [x] Left And Right shift
+- [x] Pre / Post increment
+- [x] Pre / Post decrement
+- [x] for loop
+- [x] continue and break statements
+- [x] scope concepts
+- [x] Operator precedence and associativity 
 
 Leetcode Questions done -
-1. Number of 1 bit
-2. Subtract the product and sum of digits of an integer
+- [x] Number of 1 bit
+- [x] Subtract the product and sum of digits of an integer
 
 
 
