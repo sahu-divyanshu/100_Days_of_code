@@ -28,8 +28,6 @@
 
 - [ ] Learning C++ from Basic to Advanced.
 
-- [ ] Creating At Least 4 Projects In C++.
-
 - [ ] Learning Data Structure & Algorithms.
 
 - [ ] Solving Problem On DSA
