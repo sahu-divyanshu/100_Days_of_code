@@ -1255,6 +1255,136 @@ Today I Solved 2 Problems On Code Studio -
 2. Find Bridges in Graphs
 
 
+### :date: *DAY 101
+* :calendar: 28-10-2022 FRIDAY
+
+Today i solved 3 hard level problems on code studio & leetcode -
+
+1. Articulation Points in Graphs 
+2. Count strongly connected components ( KOSARAJU's Algorithm)
+3. Bellman Ford
+
+### :date: *DAY 102
+* :calendar: 29-10-2022 SATURDAY
+
+Today I Started Dynamic Programing -
+
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+And Solved Nth Fibonacci Series Using above 3 approaches on Code Studio
+
+### :date: *DAY 103
+* :calendar: 30-10-2022 SUNDAY
+
+Today i solved 3 problems on code studio & leetcode Using Dynamic Programing -
+
+1. Count ways to reach Nth stairs
+2. Min cost climbing stairs
+3. Minimum Elements
+
+### :date: *DAY 104
+* :calendar: 31-10-2022 MONDAY
+
+Today i solved 2 problems on code studio Using Dynamic Programing -
+
+1. Maximum Sum of Non-Adjacent Elements
+2. House robber - 2
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 105
+* :calendar: 1-11-2022 TUESDAY
+
+Today i solved 4 problems on code studio & leetcode Using Dynamic Programing -
+
+1. Cut into segments
+2. Count derangements 
+3. Ninja And The Fence
+4. 01 Knapsack
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 106
+* :calendar: 2-11-2022 WEDNESDAY
+
+Today i solved 2 problems on code studio & geeks for geeks Using Dynamic Programing -
+
+1. Combination Sum IV 
+2. Get Minimum Squares
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 107
+* :calendar: 3-11-2022 THURSDAY
+
+Today i solved 2 problems on code studio & geeks for geeks Using Dynamic Programing -
+
+1. Ninja's Trip (code studio)/Minimum cost for tickets (leetcode)
+2. Largest square area in matrix
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 108
+* :calendar: 4-11-2022 FRIDAY
+
+Today I solved 2 problems on Leet Code Using Dynamic Programing -
+
+1. Minimum Score Triangulation of Polygon
+2. Minimum Sideway Jumps
+3. Reducing dishes
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 109
+* :calendar: 5-11-2022 SATURDAY
+
+Today I solved 4 problems on Leet Code & geeks for geeks Using Dynamic Programing -
+
+1. Longest Increasing Subsequence
+2. Russian Doll Envelopes 
+3. Pizza with 3n Slices 
+4. Number of Dice Rolls with Target Sum 
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+
+### :date: *DAY 110
+* :calendar: 6-11-2022 SUNDAY
+
+Today I solved 3 HARD problems on Leet Code & geeks for geeks Using Dynamic Programing -
+
+1. Minimum Swaps To Make Sequences Increasing
+2. Longest Arithmetic Progression 
+3. Partition Equal Subset Sum
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+
+
+
 
 ## Contributors
   * DIVYANSHU SAHU: :e-mail: divyanshusahucoc@gmail.com
