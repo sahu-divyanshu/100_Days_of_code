@@ -1382,6 +1382,232 @@ using all 3 approaches
 2. Bottom Up - Tabulation
 3. Space Optimization
 
+### :date: *DAY 111
+* :calendar: 7-11-2022 MONDAY
+
+Today I solved 3 problems on Leet Code Using Dynamic Programing -
+
+1. Longest Arithmetic Subsequence of given differrence
+2. Unique Binary Search Trees
+3 Guess Number Higher or Lower 
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 112
+* :calendar: 8-11-2022 TUESDAY
+
+Today I solved 8 problems on Leet Code Using Dynamic Programing -
+
+1. Minimum Cost Tree From Leaf Values
+2. Best time to buy and sell stock - Part 1
+3. Best time to buy and sell stock - Part 2
+4. Best time to buy and sell stock - Part 3
+5. Best time to buy and sell stock - Part 4
+6. Best Time to Buy and Sell Stock with Transaction Fee
+7. Longest Common Subsequence in string
+8. Longest Palindromic Subsequence
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 113
+* :calendar: 9-11-2022 WEDNESDAY
+
+Today I solve 3 problems of Dynamic Programming -
+
+1. Edit Distance
+2. Maximal Rectangle
+3. Wildcard Matching
+
+And Solved 9 Questions from GREEDY Algorithm -
+
+1. N meetings in one room
+2. Shop in candy Store
+3. Check if it is possible to survive on island
+4. Reverse Words in a given string
+5. Chocolate Distribution Problem
+6. Minimum Cost of ropes
+7. Huffman Encoding
+8. Fractionsal Knapsack
+9. Job Sequencing Problem
+
+### :date: *DAY 114
+* :calendar: 10-11-2022 THURSDAY
+
+FROM TODAY I AM STARTING A2Z DSA SHEET BY Raj Vikramaditya
+(STRIVER SDE SHEET)
+
+TODAY I REVISED STL LIBRARY FROM STRIVER'S VIDEO
+
+AND SOLVED SOME BASICS MATHS PROBLEMS -
+
+1. Count Digits
+2. Reverse a Number
+3. Check Palindrome
+4. GCD Or HCF
+5. Armstrong Numbers
+6. Print all Divisors
+7. Check for Prime
+
+### :date: *DAY 115
+* :calendar: 11-11-2022 FRIDAY
+
+TODAY I SOLVED SOME PROBLEMS USING RECURSION FROM STRIVER'S A2Z SHEET -
+
+1. Understand recursion by print something N times
+2. Print name N times using recursion
+3. Print 1 to N using recursion
+4. Print N to 1 using recursion
+5 Sum of first N numbers
+6. Factorial of N numbers
+7. Reverse an array
+8. Check if a string is palindrome or not
+9. Fibonacci Number
+10. Counting frequencies of array elements
+11. Find the highest/lowest frequency element
+
+
+### :date: *DAY 116
+* :calendar: 12-11-2022 SATURDAY
+
+TODAY I SOLVED SOME SORTING ALGO FROM STRIVER'S A2Z SHEET -
+
+1. Selection Sort
+2. Bubble Sort
+3. Insertion Sort
+4. Merge Sort
+5. Recursive Bubble Sort
+6. Recursive Insertion Sort
+7. Quick Sort
+
+### :date: *DAY 117
+* :calendar: 13-11-2022 SUNDAY
+
+TODAY I SOLVED 8 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET -
+
+1. Largest Element in an Array
+2. Second Largest Element in an Array without sorting
+3. Check if the array is sorted
+4. Remove duplicates from Sorted array
+5. Left Rotate an array by one place
+6. Left rotate an array by D place
+7. Move Zeros to end
+8. Linear Search
+ 
+### :date: *DAY 118
+* :calendar: 14-11-2022 MONDAY
+
+TODAY I SOLVED 8 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET -
+
+1. Find the Union and intersection of two sorted arrays
+2. Find missing number in an array.
+3. Maximum Consecutive Ones
+4. Subarray with given sum
+5. Find the Missing Number
+6. Find the number that appears once, and other numbers twice.
+7. Search an element in a 2D matrix
+8. Find the row with maximum number of 1’s
+
+### :date: *DAY 119
+* :calendar: 15-11-2022 TUESDAY
+
+TODAY I SOLVED 8 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET -
+
+1. 2Sum Problem  
+2. Sort an array of 0’s 1’s and 2’s
+3. Majority Element (>n/2 times)
+4. Kadane’s Algorithm, maximum subarray sum
+5. Print subarray with maximum subarray sum (extended version of above problem)
+6. Stock Buy and Sell
+7. Rearrange the array in alternating positive and negative items
+8. Next Permutation
+
+### :date: *DAY 120
+* :calendar: 16-11-2022 WEDNESDAY
+
+TODAY I SOLVED 8 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Leaders in an Array problem
+2. Longest Consecutive Sequence in an Array
+3. Set Matrix Zeros
+4. Rotate Matrix by 90 degree
+5. Print the matrix in spiral manner
+
+### :date: *DAY 121
+* :calendar: 17-11-2022 THURSDAY
+
+TODAY I SOLVED 2 HARD PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Pascal's Triangle
+2. Majority Element II
+
+### :date: *DAY 122
+* :calendar: 18-11-2022 FRIDAY
+
+TODAY I SOLVED 3 HARD PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Three Sum
+2. Four Sum
+3. Largest Subarray with 0 Sum
+
+### :date: *DAY 123
+* :calendar: 19-11-2022 SATURDAY
+
+TODAY I SOLVED 3 HARD PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Count number of subarrays with given xor K
+2. Merge Overlapping Subintervals
+3. Merge two sorted arrays without extra space
+
+
+### :date: *DAY 124
+* :calendar: 20-11-2022 SUNDAY
+
+TODAY I SOLVED 2 HARD PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on geeks for geeks
+
+1. Find the repeating and missing number
+2. Count Inversions
+
+### :date: *DAY 125
+* :calendar: 21-11-2022 MONDAY
+
+TODAY I SOLVED 10 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Reverse Pairs
+2. Maximum Product Subarray
+3. Binary Search to find X in sorted array
+4. Implement Lower Bound
+5. Implement Upper Bound
+6. Search Insert Position
+7. Check if Input array is sorted
+8. Find the first or last occurrence of a given number in a sorted array
+9. Count occurrences of a number in a sorted array with duplicates
+10. Find peak element
+
+### :date: *DAY 126
+* :calendar: 22-11-2022 TUESDAY
+
+TODAY I SOLVED 4 PROBLEMS USING BINARY SEARCH FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Search in Rotated Sorted Array I
+2. Search in Rotated Sorted Array II
+3. Find minimum in Rotated Sorted Array
+4. Single element in a Sorted Array
+
+### :date: *DAY 127
+* :calendar: 23-11-2022 WEDDAY
+
+Today i solved 4 problems using binary search -
+
+1. Find kth element of two sorted arrays
+2. Find out how many times has an array been rotated
+3. Search in a 2 D matrix
+4. Find Peak Element
 
 
 
