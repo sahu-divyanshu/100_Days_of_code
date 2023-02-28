@@ -28,8 +28,6 @@
 
 - [ ] Learning C++ from Basic to Advanced.
 
-- [ ] Creating At Least 4 Projects In C++.
-
 - [ ] Learning Data Structure & Algorithms.
 
 - [ ] Solving Problem On DSA
@@ -894,7 +892,722 @@ Today i solved 3 question on geeks for geeks -
 3. Reverse First K element of Queue
 
 ### :date: *DAY 65
-* :calendar: 16-09-2022 FRIDAY
+* :calendar: 17-09-2022 SATURDAY
+
+Today i solved 2 question on geeks for geeks -
+1. First non repeating char in string
+2. circular tour
+
+### :date: *DAY 66
+* :calendar: 18-09-2022 SUNDAY
+
+Today i solved 1 hard level problem -
+- > k no of queues in single array
+
+### :date: *DAY 67
+* :calendar: 19-09-2022 MONDAY
+
+Today i solved 1 hard level problem -
+-> sum of minimum and maximum element in every window of K
+
+### :date: *DAY 68
+* :calendar: 20-09-2022 TUESDAY
+
+Today I have started binary tree
+
+General terms of binary tree -
+1) Node
+2)Root
+3)Children
+4)Parents
+5)sibling
+6)Ancestor
+7)Descendant
+8)Leaf
+
+-> Creation of Binary Tree
+
+### :date: *DAY 69
+* :calendar: 21-09-2022 WEDDAY
+
+Today i learned about binary trees -
+1. level order traversal
+2. in order traversal (LNR)
+3. pre order traversal (NLR)
+4. post order traversal (LRN)
+5. creation of tree from level order traversal
+
+### :date: *DAY 70
+* :calendar: 22-09-2022 THURSDAY
+
+Today i solved 2 question on geeks for geeks and code studio -
+1. Count leaf nodes
+2. Measure height of tree
+
+### :date: *DAY 71
+* :calendar: 23-09-2022 FRIDAY
+
+Today i solved 4 question on geeks for geeks -
+
+1. Diameter of a binary tree
+2. Determine if two trees are identical
+3. Check a tree is balanced or not on every Node
+4. sum tree
+
+### :date: *DAY 72
+* :calendar: 24-09-2022 SATURDAY
+
+Today i solved 3 question on geeks for geeks -
+
+1. Zig Zag Traversal
+2. Boundary Traversal
+3. Vertical order Traversal
+
+### :date: *DAY 73
+* :calendar: 25-09-2022 SUNDAY
+
+Today i solved 4 question on geeks for geeks -
+
+1. Top view of Binary Tree
+2. Bottom view of Binary Tree
+3. Left view of Binary Tree
+4. Right view of Binary Tree
+
+### :date: *DAY 74
+* :calendar: 26-09-2022 MONDAY
+
+Today i solved 3 question on geeks for geeks -
+
+1. Sum of longest blood line of a tree
+2. lowest common Ancestor in a binary tree
+3. k sum tree
+
+### :date: *DAY 75
+* :calendar: 27-09-2022 TUESDAY
+
+Today i solved 2 question on geeks for geeks -
+
+1. Kth Ancestor in a Tree
+2. Maximum sum of Non-adjacent Nodes
+
+### :date: *DAY 76
+* :calendar: 28-09-2022 WEDNUSDAY
+
+Today i solved 2 question on geeks for geeks -
+
+1. Construct tree from Inorder & Preorder
+2. Tree form Postorder and Inorder
+
+### :date: *DAY 77
+* :calendar: 29-09-2022 THURSDAY
+
+Today i solved 1 question on geeks for geeks -
+
+1. Burning Tree
+
+### :date: *DAY 78
+* :calendar: 30-09-2022 FRIDAY
+
+Today i solved 1 question on geeks for geeks -
+
+1. Flatten Binary Tree to Linked list
+
+and learned a algo of MORRIS TRAVERSAL
+
+### :date: *DAY 79
+* :calendar: 01-10-2022 SATURDAY
+
+Today I have solved 1 problem on code studio
+1. Search a Node in BST
+
+And learn about
+>> Binary Search Tree
+>> Insert a Node in BST
+>> Search a Node in BST
+>> Min/Max Value in BST
+>> Delete a Node in BST
+
+### :date: *DAY 80
+* :calendar: 02-10-2022 SUNDAY
+
+Today I have solved 3 problems on code studio and leet code -
+
+1. Valid BST
+2. Find K th smallest Element in BST
+3. Predecessor And Successor In BST
+
+### :date: *DAY 81
+* :calendar: 03-10-2022 MONDAY
+
+TODAY I SOLVED 2 QUESTIONS ON CODE STUDIO -
+1. LCA OF 2 NODES IN A BST
+2. TWO SUM IN BST
+
+### :date: *DAY 82
+* :calendar: 04-10-2022 TUESDAY
+
+TODAY I SOLVED 3 QUESTIONS ON CODE STUDIO -
+
+1. FLATTEN BST TO A SORTED LIST
+2. NORMAL BST TO BALANCED BST
+3. BST FROM PREORDER
+
+### :date: *DAY 83
+* :calendar: 05-10-2022 WEDNUSDAY
+
+TODAY I SOLVED 1 QUESTIONS ON CODE STUDIO -
+
+1. MERGE TWO BST
+
+AND SOLVED 3 QUESIONS ON CODE CHEF -
+
+1. PODIUM FINISH
+2. MINIMUM PIZZAS
+3. BUILDING RACE
+
+### :date: *DAY 84
+* :calendar: 06-10-2022 THURSDAY
+
+TODAY I SOLVED 1 PROBLEM ON CODE STUDIO -
+
+1. SIZE OF LARGEST BST IN BINARY TREE
+
+AND SOLVED 2 PROBLEMS FROM CODE CHEF CONTEST -
+
+1. SINGLE OPERATION - PART 1
+2. SINGLE OPERATION - PART 2
+
+AND I GOT #1 STAR ON CODECHEF IN MY FIRST CONTEST
+
+### :date: *DAY 85
+* :calendar: 07-10-2022 FRIDAY
+
+TODAY I SOLVED 1 PROBLEM ON CODE STUDIO -
+
+1. BUILD MIN HEAP
+
+TODAY I LEARNED ABOUT -
+
+-> INTRODUCTION TO HEAP & CBT
+-> MAX HEAP AND MIN HEAP
+-> INSERTION IN HEAP
+-> HEAP CLASS IMPLEMENTION
+-> INSERTION CODE
+-> DELETION IN HEAP
+-> HEAPIFY ALGORITHM
+-> HEAPIFY CODE
+-> HEAP SORT
+-> HEAP SORT CODE
+-> PRIORITY QUEUE
+
+### :date: *DAY 86
+* :calendar: 08-10-2022 SATURDAY
+
+TODAY I SOLVED 2 PROBLEMS ON GEEKS FOR GEEKS -
+
+1. K th SMALL ELEMENT USING HEAP
+2. IS BINARY TREE HEAP
+
+### :date: *DAY 87
+* :calendar: 09-10-2022 SUNDAY
+
+TODAY I SOLVED 3 PROBLEMS ON GEEKS FOR GEEKS & CODE STUDIO -
+
+1. MERGE TWO BINARY MAX HEAP
+2. MINIMUM COST OF ROPES
+3. CONVERT BST TO MIN HEAP
+
+### :date: *DAY 88
+* :calendar: 10-10-2022 MONDAY
+
+TODAY I SOLVED 3 PROBLEMS ON CODE STUDIO -
+
+1. K th LARGEST SUM SUBARRAY
+2. MERGE K SORTED ARRAY
+3. MERGE K SORTED LINKED LIST
+
+### :date: *DAY 89
+* :calendar: 11-10-2022 TUESDAY
+
+TODAY I SOLVED 2 HARD LEVEL PROBLEMS ON CODE STUDIO -
+
+1. SMALLEST RANGE FROM K SORTED LIST
+2. MEDIAN IN A STREAM
+
+### :date: *DAY 90
+* :calendar: 12-10-2022 WEDNUSDAY
+
+Today i solved 1 problem on code studio -
+1. Maximum Frequency Number
+
+Today I have learn about HASHMAP -
+
+>> Introduction to HashMaps
+>> Why we need hash maps ?
+>> HashMap Implementation
+>> Map STL
+>> Bucket Array
+>> Hash Functions
+>> Collision & its Handling
+>> Open Hashing
+>> Closed Addressing
+
+### :date: *DAY 91
+* :calendar: 13-10-2022 THURSDAY
+
+Today i solved 2 problems on code studio -
+1. Implement trie
+2. Longest Common Prefix
+
+Today I have learn about tries
+>> What is Trie ?
+>> Insert in Trie
+>> Insertion Algo
+>> Search in Trie
+>> Trie Implementation
+>> Remove in Trie
+
+### :date: *DAY 92
+* :calendar: 14-10-2022 FRIDAY
+
+Today i solved 2 HARD problems on code studio -
+
+1. IMPLEMENT A PHONE DICTIONARY
+2. RAT IN A MAZE PROBLEM
+
+### :date: *DAY 93
+* :calendar: 15-10-2022 SATURDAY
+
+TODAY I SOLVED 2 HARL LEVEL QUESTIONS ON CODE STUDIO -
+
+1. THE N - QUEENS PROBLEM
+2. SUDOKU SOLVER
+
+### :date: *DAY 94
+* :calendar: 16-10-2022 SUNDAY
+
+Today I have learn about graph -
+
+->>Introduction to graph
+->>Directed
+>>Undirected
+->>Degree ->Indegree ,outdegree
+->>Node
+->>Edges
+->>Weight graph
+->>Weight cyclic directed graph
+>>Weight acyclic directed graph
+->>Adjacency matrix
+->>Adjacency list
+
+And solved 1 problem statement on code studio -
+1. Creating and Printing
+
+### :date: *DAY 95
+* :calendar: 17-10-2022 MONDAY
+
+Today I solved 2 problem statement on code studio -
+
+1. BFS(Breath first search) Traversal in Graph
+2. DFS(depth first search) Traversal in Graph
+
+### :date: *DAY 96
+* :calendar: 18-10-2022 TUESDAY
+
+Today I solved 3 problem statement on code studio -
+
+1. Detect cycle in a Undirected Graph using BFS
+2. Detect cycle in a Undirected Graph using DFS
+3. Detect cycle in a Directed Graph using DFS
+
+### :date: *DAY 97
+* :calendar: 19-10-2022 WEDNUSDAY
+
+Today I solved 3 problem statement on code studio -
+
+1. Topological Sort using DFS
+2. Topological Sort using BFS
+3. Detect cycle in a Directed Graph using BFS
+
+### :date: *DAY 98
+* :calendar: 20-10-2022 THURSDAY
+
+Today I solved 2 problem statement on code studio -
+
+1. Shortest path in undirected graphs
+2. Shortest path in directed Acyclic graphs
+
+### :date: *DAY 99
+* :calendar: 21-10-2022 FRIDAY
+
+Today I solved 2 problem statement on code studio -
+
+1. Dijkstra's Algorithm
+2. Minimum Spanning Tree Prim's Algorithm
+
+
+### :date: *DAY 100
+* :calendar: 22-10-2022 FRIDAY
+
+Today I Solved 2 Problems On Code Studio -
+
+1. Kruskal's Algorithm Disjoint Set Union by Rank & Path Compression.
+2. Find Bridges in Graphs
+
+
+### :date: *DAY 101
+* :calendar: 04-11-2022 FRIDAY
+
+Today i solved 3 hard level problems on code studio & leetcode -
+
+1. Articulation Points in Graphs 
+2. Count strongly connected components ( KOSARAJU's Algorithm)
+3. Bellman Ford
+
+### :date: *DAY 102
+* :calendar: 05-12-2022 SATURDAY
+
+Today I Started Dynamic Programing -
+
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+And Solved Nth Fibonacci Series Using above 3 approaches on Code Studio
+
+### :date: *DAY 103
+* :calendar: 06-11-2022 SUNDAY
+
+Today i solved 3 problems on code studio & leetcode Using Dynamic Programing -
+
+1. Count ways to reach Nth stairs
+2. Min cost climbing stairs
+3. Minimum Elements
+
+### :date: *DAY 104
+* :calendar: 07-11-2022 MONDAY
+
+Today i solved 2 problems on code studio Using Dynamic Programing -
+
+1. Maximum Sum of Non-Adjacent Elements
+2. House robber - 2
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 105
+* :calendar: 08-11-2022 TUESDAY
+
+Today i solved 4 problems on code studio & leetcode Using Dynamic Programing -
+
+1. Cut into segments
+2. Count derangements 
+3. Ninja And The Fence
+4. 01 Knapsack
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 106
+* :calendar: 09-11-2022 WEDNESDAY
+
+Today i solved 2 problems on code studio & geeks for geeks Using Dynamic Programing -
+
+1. Combination Sum IV 
+2. Get Minimum Squares
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 107
+* :calendar: 10-11-2022 THURSDAY
+
+Today i solved 2 problems on code studio & geeks for geeks Using Dynamic Programing -
+
+1. Ninja's Trip (code studio)/Minimum cost for tickets (leetcode)
+2. Largest square area in matrix
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 108
+* :calendar: 11-11-2022 FRIDAY
+
+Today I solved 2 problems on Leet Code Using Dynamic Programing -
+
+1. Minimum Score Triangulation of Polygon
+2. Minimum Sideway Jumps
+3. Reducing dishes
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 109
+* :calendar: 12-11-2022 SATURDAY
+
+Today I solved 4 problems on Leet Code & geeks for geeks Using Dynamic Programing -
+
+1. Longest Increasing Subsequence
+2. Russian Doll Envelopes 
+3. Pizza with 3n Slices 
+4. Number of Dice Rolls with Target Sum 
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+
+### :date: *DAY 110
+* :calendar: 13-11-2022 SUNDAY
+
+Today I solved 3 HARD problems on Leet Code & geeks for geeks Using Dynamic Programing -
+
+1. Minimum Swaps To Make Sequences Increasing
+2. Longest Arithmetic Progression 
+3. Partition Equal Subset Sum
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 111
+* :calendar: 14-11-2022 MONDAY
+
+Today I solved 3 problems on Leet Code Using Dynamic Programing -
+
+1. Longest Arithmetic Subsequence of given differrence
+2. Unique Binary Search Trees
+3 Guess Number Higher or Lower 
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 112
+* :calendar: 15-11-2022 TUESDAY
+
+Today I solved 8 problems on Leet Code Using Dynamic Programing -
+
+1. Minimum Cost Tree From Leaf Values
+2. Best time to buy and sell stock - Part 1
+3. Best time to buy and sell stock - Part 2
+4. Best time to buy and sell stock - Part 3
+5. Best time to buy and sell stock - Part 4
+6. Best Time to Buy and Sell Stock with Transaction Fee
+7. Longest Common Subsequence in string
+8. Longest Palindromic Subsequence
+
+using all 3 approaches
+1. Top Down - Recursion + Memorizing
+2. Bottom Up - Tabulation
+3. Space Optimization
+
+### :date: *DAY 113
+* :calendar: 16-11-2022 WEDNESDAY
+
+Today I solve 3 problems of Dynamic Programming -
+
+1. Edit Distance
+2. Maximal Rectangle
+3. Wildcard Matching
+
+And Solved 9 Questions from GREEDY Algorithm -
+
+1. N meetings in one room
+2. Shop in candy Store
+3. Check if it is possible to survive on island
+4. Reverse Words in a given string
+5. Chocolate Distribution Problem
+6. Minimum Cost of ropes
+7. Huffman Encoding
+8. Fractionsal Knapsack
+9. Job Sequencing Problem
+
+### :date: *DAY 114
+* :calendar: 17-11-2022 THURSDAY
+
+FROM TODAY I AM STARTING A2Z DSA SHEET BY Raj Vikramaditya
+(STRIVER SDE SHEET)
+
+TODAY I REVISED STL LIBRARY FROM STRIVER'S VIDEO
+
+AND SOLVED SOME BASICS MATHS PROBLEMS -
+
+1. Count Digits
+2. Reverse a Number
+3. Check Palindrome
+4. GCD Or HCF
+5. Armstrong Numbers
+6. Print all Divisors
+7. Check for Prime
+
+### :date: *DAY 115
+* :calendar: 18-11-2022 FRIDAY
+
+TODAY I SOLVED SOME PROBLEMS USING RECURSION FROM STRIVER'S A2Z SHEET -
+
+1. Understand recursion by print something N times
+2. Print name N times using recursion
+3. Print 1 to N using recursion
+4. Print N to 1 using recursion
+5 Sum of first N numbers
+6. Factorial of N numbers
+7. Reverse an array
+8. Check if a string is palindrome or not
+9. Fibonacci Number
+10. Counting frequencies of array elements
+11. Find the highest/lowest frequency element
+
+
+### :date: *DAY 116
+* :calendar: 19-11-2022 SATURDAY
+
+TODAY I SOLVED SOME SORTING ALGO FROM STRIVER'S A2Z SHEET -
+
+1. Selection Sort
+2. Bubble Sort
+3. Insertion Sort
+4. Merge Sort
+5. Recursive Bubble Sort
+6. Recursive Insertion Sort
+7. Quick Sort
+
+### :date: *DAY 117
+* :calendar: 20-11-2022 SUNDAY
+
+TODAY I SOLVED 8 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET -
+
+1. Largest Element in an Array
+2. Second Largest Element in an Array without sorting
+3. Check if the array is sorted
+4. Remove duplicates from Sorted array
+5. Left Rotate an array by one place
+6. Left rotate an array by D place
+7. Move Zeros to end
+8. Linear Search
+ 
+### :date: *DAY 118
+* :calendar: 21-11-2022 MONDAY
+
+TODAY I SOLVED 8 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET -
+
+1. Find the Union and intersection of two sorted arrays
+2. Find missing number in an array.
+3. Maximum Consecutive Ones
+4. Subarray with given sum
+5. Find the Missing Number
+6. Find the number that appears once, and other numbers twice.
+7. Search an element in a 2D matrix
+8. Find the row with maximum number of 1’s
+
+### :date: *DAY 119
+* :calendar: 22-11-2022 TUESDAY
+
+TODAY I SOLVED 8 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET -
+
+1. 2Sum Problem  
+2. Sort an array of 0’s 1’s and 2’s
+3. Majority Element (>n/2 times)
+4. Kadane’s Algorithm, maximum subarray sum
+5. Print subarray with maximum subarray sum (extended version of above problem)
+6. Stock Buy and Sell
+7. Rearrange the array in alternating positive and negative items
+8. Next Permutation
+
+### :date: *DAY 120
+* :calendar: 23-11-2022 WEDNESDAY
+
+TODAY I SOLVED 8 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Leaders in an Array problem
+2. Longest Consecutive Sequence in an Array
+3. Set Matrix Zeros
+4. Rotate Matrix by 90 degree
+5. Print the matrix in spiral manner
+
+### :date: *DAY 121
+* :calendar: 24-11-2022 THURSDAY
+
+TODAY I SOLVED 2 HARD PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Pascal's Triangle
+2. Majority Element II
+
+### :date: *DAY 122
+* :calendar: 25-11-2022 FRIDAY
+
+TODAY I SOLVED 3 HARD PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Three Sum
+2. Four Sum
+3. Largest Subarray with 0 Sum
+
+### :date: *DAY 123
+* :calendar: 26-11-2022 SATURDAY
+
+TODAY I SOLVED 3 HARD PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Count number of subarrays with given xor K
+2. Merge Overlapping Subintervals
+3. Merge two sorted arrays without extra space
+
+
+### :date: *DAY 124
+* :calendar: 27-11-2022 SUNDAY
+
+TODAY I SOLVED 2 HARD PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on geeks for geeks
+
+1. Find the repeating and missing number
+2. Count Inversions
+
+### :date: *DAY 125
+* :calendar: 28-11-2022 MONDAY
+
+TODAY I SOLVED 10 PROBLEMS ON ARRAY FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Reverse Pairs
+2. Maximum Product Subarray
+3. Binary Search to find X in sorted array
+4. Implement Lower Bound
+5. Implement Upper Bound
+6. Search Insert Position
+7. Check if Input array is sorted
+8. Find the first or last occurrence of a given number in a sorted array
+9. Count occurrences of a number in a sorted array with duplicates
+10. Find peak element
+
+### :date: *DAY 126
+* :calendar: 29-11-2022 TUESDAY
+
+TODAY I SOLVED 4 PROBLEMS USING BINARY SEARCH FROM STRIVER'S A2Z SHEET on leetcode and geeks for geeks
+
+1. Search in Rotated Sorted Array I
+2. Search in Rotated Sorted Array II
+3. Find minimum in Rotated Sorted Array
+4. Single element in a Sorted Array
+
+### :date: *DAY 127
+* :calendar: 30-11-2022 WEDDAY
+
+Today i solved 4 problems using binary search -
+
+1. Find kth element of two sorted arrays
+2. Find out how many times has an array been rotated
+3. Search in a 2 D matrix
+4. Find Peak Element
 
 
 
