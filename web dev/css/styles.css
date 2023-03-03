@@ -1,6 +1,6 @@
 
 body{
-    background-color:antiquewhite ;
+    background-color :antiquewhite ;
 }
 hr{
     background-color:antiquewhite ;
@@ -11,10 +11,11 @@ hr{
     width: 5%;
 }
 h1{
-    color:#e33316
+    color:#d1512d
 }
 h2{
-    color:#e33316}
+    color:#d1512d
+}
 h3{
     color:rgb(78, 3, 148)
 }
