@@ -1,0 +1,10 @@
+#title{
+    background-color: 	#5eff00;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 7rem;
+}
+.title-img{
+    transform: rotate(25deg);
+}
