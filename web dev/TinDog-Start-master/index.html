@@ -11,7 +11,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Montserrat:ital,wght@1,700&family=Sacramento&display=swap" rel="stylesheet">
-  
+  <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc" crossorigin="anonymous"></script>
+
  
  <style>
     h1{
@@ -32,8 +33,23 @@
 .button{
   margin:5% 7% 5% 7%;
   position: relative;
-  left: 40px;
+  left: 20px;
 }
+.feature-box{
+    text-align: center;
+    padding: 2% ;
+}
+h3{
+   font-weight: bold;
+}
+.pricing-col{
+    padding: 5% 4%;
+    text-align: center;
+}
+
+
+
+
   </style>
 </head>
 
@@ -57,13 +73,13 @@
         <div class="collapse nevbar-collapse" id="navbarTogglerDemo01">
             <ul class = "navbar-nav ms-auto">
                 <li class="nav-item">
-                    <a class = "nav-link" href="">Contact</a>
+                    <a class = "nav-link" href="#footer">Contact</a>
                 </li> 
                 <li class="nav-item">
-                    <a class = "nav-link" href="">Pricing</a>
+                    <a class = "nav-link" href="#pricing">Pricing</a>
                 </li>
                 <li class="nav-item">
-                    <a class = "nav-link" href="">Download</a>
+                    <a class = "nav-link" href="#cta">Download</a>
                 </li>
             </ul>
         </div>
@@ -77,11 +93,11 @@
   <div class = "row">
     <div class="col-lg-7">
       <h1>Want fresh Vegetables and Fruits at your Doorstep ?</h1>
-      <button type="button" class = "btn btn-dark btn-lg button">Vegetable</button>
-      <button type="button" class="btn btn-dark btn-lg button"> Fruits </button>
+      <button type="button" class = "btn btn-dark btn-lg button" style="margin-bottom: 100px;">Vegetable</button>
+      <button type="button" class="btn btn-dark btn-lg button" style="margin-bottom: 100px;"> Fruits </button>
      </div>
      <div class="col-lg-5">
-       <img class="title-img" src="images/phone.png" alt="iphone-mockup" width = "450px" height="600px" >
+       <img class="title-img" src="images/phone.png" alt="iphone-mockup" width = "380px" height="600px" >
      </div>
   </div>
 
@@ -92,16 +108,25 @@
   <!-- Features -->
 
   <section id="features">
+<div class = "row">
 
-    <h3>Easy to use.</h3>
-    <p>So easy to use, even your dog could do it.</p>
+  <div class="feature-box col-lg-4">
+    <img class = "logo" src="images/fresh veg.jfif" alt="">
+    <h3>Fresh Veggies.</h3>
+    <p>Get Fresh and Juicy Veggies</p>
+  </div>
+  <div class="feature-box col-lg-4">
+   <img  class = "logo"src="images/free & fast dilivery.jfif" alt="">
+    <h3>Free & Fast Delivery</h3>
+    <p>Pick up your veggies in 10 minutes, with no shipping costs.</p>
+  </div>
+  <div class="feature-box col-lg-4">
+    <img class = "logo" src="images/best price.jfif" alt="">
+    <h3>Best Prices.</h3>
+    <p>Better prices and less costly than your local store.</p>
+  </div>
 
-    <h3>Elite Clientele</h3>
-    <p>We have all the dogs, the greatest dogs.</p>
-
-    <h3>Guaranteed to work.</h3>
-    <p>Find the love of your dog's life or your money back.</p>
-
+</div>
   </section>
 
 
@@ -109,13 +134,30 @@
 
   <section id="testimonials">
 
-    <h2>I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof.</h2>
-    <img src="images/dog-img.jpg" alt="dog-profile">
-    <em>Pebbles, New York</em>
+    <div id="carouselExample" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <h2 style="padding-bottom: 40px;"> I was able to find the vegetables that I was looking for and the prices were very reasonable.</h2>
+          <img class =  "TI" src="images/1.png" alt="dog-profile">
+          <em>Ayushi Talesara, India</em>
+        </div>
 
-    <!-- <h2 class="testimonial-text">My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.</h2>
-    <img class="testimonial-image" src="images/lady-img.jpg" alt="lady-profile">
-    <em>Beverly, Illinois</em> -->
+        <div class="carousel-item">
+          <h2 style="padding-bottom: 40px;">  I have been using their service for a few months now and I have never been disappointed. </h2>
+          <img class =  "TI" src="images/lady-img.jpg" alt="lady-profile">
+          <em>Harshita Sharma, India</em> 
+        </div>
+      
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" ></span>
+
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
 
   </section>
 
@@ -123,10 +165,10 @@
   <!-- Press -->
 
   <section id="press">
-    <img src="images/techcrunch.png" alt="tc-logo">
-    <img src="images/tnw.png" alt="tnw-logo">
-    <img src="images/bizinsider.png" alt="biz-insider-logo">
-    <img src="images/mashable.png" alt="mashable-logo">
+    <img class = "press-logo" src="images/techcrunch.png" alt="tc-logo">
+    <img class = "press-logo" src="images/tnw.png" alt="tnw-logo">
+    <img class = "press-logo" src="images/bizinsider.png" alt="biz-insider-logo">
+    <img class = "press-logo" src="images/mashable.png" alt="mashable-logo">
 
   </section>
 
@@ -135,33 +177,59 @@
 
   <section id="pricing">
 
-    <h2>A Plan for Every Dog's Needs</h2>
-    <p>Simple and affordable price plans for your and your dog.</p>
+    <h2>A Plan that Everyone Needs</h2>
+    <p>Simple and affordable price plans for you.</p>
+
+ <div class="row">
+  <div class = "pricing-col col-lg-4 col-md-6">
+    <div class = " card ">
+      <div class="card-header">
+        <h3>Weekly </h3>
+      </div>  
+      <div class = "card-body">
+        <h2>One Time Free</h2>
+        <p>2 Hour Delivery</p>
+        <p>Free Delivery</p>
+        <p>Extra 5 % Discount</p>
+        <button class = "btn btn-lg btn-block btn-dark" type="button">Subscribe</button>
+      </div>
+    </div>
+  </div>
+
+<div class = "pricing-col col-lg-4 col-md-6">
+  <div class = " card ">
+    <div class="card-header">
+      <h3>Monthly Plan</h3>
+    </div>
+    <div class = "card-body">
+      <h2> 299 Rs </h2>
+      <p>2 Hour Delivery</p>
+      <p>Free Delivery</p>
+      <p>Extra 5 % Discount</p>
+      <button class = "btn btn-lg btn-block btn-dark" type="button">Subscribe</button>    
+    </div>
+  </div>
+</div>
+
+<div class = "pricing-col col-lg-4 ">
+  <div class = " card ">
+    <div class="card-header">
+      <h3>Yearly Plan</h3>
+    </div>
+    <div class = "card-body">
+      <h2> 2999 Rs </h2>
+      <p>1 Hour Delivery</p>
+      <p>Free Delivery</p>
+      <p>Extra 10 % Discount</p>
+      <button class = "btn btn-lg btn-block btn-dark" type="button">Subscribe</button>
+    </div>
+  </div>
+</div>
+
+</div>
 
 
-    <h3>Chihuahua</h3>
-    <h2>Free</h2>
-    <p>5 Matches Per Day</p>
-    <p>10 Messages Per Day</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
-
-
-    <h3>Labrador</h3>
-    <h2>$49 / mo</h2>
-    <p>Unlimited Matches</p>
-    <p>Unlimited Messages</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
-
-
-    <h3>Mastiff</h3>
-    <h2>$99 / mo</h2>
-    <p>Pirority Listing</p>
-    <p>Unlimited Matches</p>
-    <p>Unlimited Messages</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
+  
 
   </section>
 
@@ -170,22 +238,22 @@
 
   <section id="cta">
 
-    <h3>Find the True Love of Your Dog's Life Today.</h3>
-    <button type="button">Download</button>
-    <button type="button">Download</button>
+    <h3 style="padding-top: 30px;">Find Best Vegetables and Friuts to Eat Today.</h3>
+
+    <button type="button"  class = "btn btn-dark btn-lg " style="  margin:3% ;"><i class = "fab fa-apple"></i> Download</button>
+    <button type="button"  class = "btn btn-light btn-lg " style="  margin:3%;"> <i class = "fab fa-google-play"></i>Download</button>
+    
 
   </section>
 
+   <footer id = "footer">
+    <i class="social-icon fab fa-facebook-f"></i>
+    <i class="social-icon fab fa-twitter"></i>
+    <i class="social-icon fab fa-instagram"></i>
 
-  <!-- Footer -->
+    <p>© Copyright Divyanshu Sahu</p>
 
-  <footer id="footer">
-
-    <p>© Copyright TinDog</p>
-
-  </footer>
-
-
+   </footer>
 </body>
 
 </html>
