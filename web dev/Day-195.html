@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        li:first-child{
+            color: brown;
+        }
+        li:nth-child(2n){
+            color: rgb(4, 0, 255);
+        }
+        ::selection{
+            color : tomato;
+            background-color: aqua;
+        }
+        li::marker{
+            content: '🚩';
+        }
+        p::before{
+            content: 'hello';
+            background-color: tomato; 
+            display: block;                                   
+        }
+        p::after{
+            content: 'are';
+            background-color: tomato;     
+            display: block;                                 
+        }
+    </style>
+</head>
+<body>
+    <nav class = "nav-bar">
+        <ul>
+            <li>contact</li>
+            <li>download</li>
+            <li>MKC</li>
+        </ul>
+    </nav>
+    <p> MY Qualities </p>
+    <ul>
+        <li>i am pro</li>
+        <li>i am greatest </li>
+        <li>i am legend</li>
+        <li>i am king for my people</li>
+    </ul>
+</body>
+</html>
