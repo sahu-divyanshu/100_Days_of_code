@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style11.css " />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Montserrat:ital,wght@1,700&family=Poppins:wght@100;200;300;400;600;700&family=Sacramento&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    
+    <script src="directory/jquery.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+
+
+    <title>JavaScript Project</title>
+  </head> 
+  <body>
+     <div class="form-container ">
+        <form action="" id="event-form" class="event-form">
+            <h2 class="event-form-title">New Event</h2>
+            <label for="title">
+                <input type="text" placeholder="Enter an Event Title" id="title">
+            </label>
+            <label for="event" >
+                <input type="datetime-local" id="event">
+            </label>
+            <button type="submit" value="Add New Countdown">
+                <i class="fa fa-calendar-plus-o"></i>
+                Add New Countdown
+            </button>
+        </form>
+     </div>
+
+     <div class="event-container hidden">
+        <div class="event">
+            <button class="event-btn">
+                <i class="fa fa-trash-o"></i>
+            </button>
+            <h2 class="event-title">TITLE</h2>
+            <div class="event-countdown">
+                <div class="event-item">
+                    <p class="event-item-title" id="day-title">15</p>
+                    <p class="day-name">DAYS</p>
+                </div>
+                <div class="event-item">
+                    <p class="event-item-title" id="hour-title">15</p>
+                    <p class="hour-name">HOURS</p>
+                </div>
+                <div class="event-item">
+                    <p class="event-item-title" id="minute-title">15</p>
+                    <p class="minute-name">MINUTES</p>
+                </div>
+                <div class="event-item">
+                    <p class="event-item-title" id="second-title">15</p>
+                    <p class="second-name">SECONDS</p>
+                </div>
+            </div>
+        </div>
+     </div>
+
+
+    <script src="project11.js"></script>
+  </body>
+</html>
