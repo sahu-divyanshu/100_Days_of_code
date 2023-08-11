@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.6rem;
+  font-weight: 600;
+}
+
+body {
+  background-color: #ffc904;
+}
+
+.container {
+  background-color: #d8f3fd;
+  width: 50%;
+  margin: 120px auto;
+  height: 500px;
+}
+
+.container h1 {
+  text-align: center;
+  padding: 80px;
+  font-size: 80px;
+}
+
+.container p {
+  text-align: center;
+  margin: 30px auto;
+  opacity: 0;
+}
+
+.container .fade {
+  opacity: 1;
+}
+
+.container button {
+  background-color: #ffc904;
+  border: 1px;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px 280px;
+  cursor: pointer;
+}
+/*# sourceMappingURL=styles.css.map */

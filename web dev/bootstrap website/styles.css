@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins", sans-serif;
+    line-height: 1rem;
+}
+
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar{
+    background-image: linear-gradient(
+        to right,#a517ba,#5f1782
+    );
+    padding: 0 !important;
+}
+.navbar img{
+    height: 30px;
+
+    padding-left: 10px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff !important;
+    font-weight: 400;
+    float: right;
+    text-align: left;
+}
+.fa-bars{
+    color: white;
+    font-size: 30px !important;
+
+}
+.navbar-toggler:focus{
+    box-shadow: none !important;
+}
+.home-banner-1,.home-banner-2{
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 90% center;
+    min-height: 90vh ;
+    position: relative;
+}
+.home-banner-1{
+    background-image: url(img/slide2.jpg);
+    background-position: center;
+  
+}
+.home-banner-2{
+    background-image: url(img/slide1.jpg);
+}
+.home-banner-text{
+    position: absolute;
+    top: 20%;
+    left: 12%;
+   
+}
+.home-banner-text h1{
+    font-size: 4rem;
+}
+
+.carousel-indicators button{
+    background-color: red !important;
+}
+.offers{
+    padding-top: 8%;
+}
+.offers img{
+    border-radius: 10px;
+    margin-bottom: 15%;
+
+}
+.offers a{
+    text-decoration: none;
+}
