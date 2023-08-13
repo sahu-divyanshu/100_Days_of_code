@@ -224,12 +224,17 @@ cursor: pointer;
 
     
 }
+.left2 , .right2{
+    overflow: hidden;
+    border-radius:20px ;
+}
 .left2 img{
     height: 500px;
     width:  515px;
     border-radius:20px ;
     cursor: pointer;
     transition: transform .5s;
+ 
 }
 
 .right2 img{
@@ -238,6 +243,7 @@ cursor: pointer;
     border-radius: 20px;
     cursor: pointer;
     transition: transform .5s;
+    
 }
 .right2 img:hover{
     transform: scale(1.05);
@@ -255,4 +261,25 @@ cursor: pointer;
     padding-top: 5%;
     margin-bottom: 5%;
     margin-top: 5%;
+}
+
+.hidden{
+    opacity:0;
+}
+.show{
+    opacity: 1;
+}
+.trhidden{
+    opacity: 0;
+    transform: translateY(-100%);
+}
+.boxhidden{
+    opacity:0;
+    transform: translateY(50%);
+
+}
+.trshow{
+    opacity: 1;
+     transform: translateY(0);
+     
 }

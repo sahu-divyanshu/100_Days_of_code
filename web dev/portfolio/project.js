@@ -17,3 +17,8 @@ right.addEventListener("mouseleave",(e) =>{
     console.log(45)
 
 })
+
+let nevigation = document.querySelector('.navContainer');
+
+
+
