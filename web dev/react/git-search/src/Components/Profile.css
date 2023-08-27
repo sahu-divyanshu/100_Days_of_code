@@ -1,0 +1,86 @@
+:root{
+    --primary-color: white;
+    --secondary-color: black;
+}
+.dark-theme{
+    --primary-color:black;
+    --secondary-color:white;
+}
+body{
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    text-align: center;
+}
+input{
+    margin-top: 120px;
+    border-radius: 10px 0 0 10px ;
+    outline: none;
+    border: none;
+    padding: 9px;
+    background-color:var(--secondary-color);
+    color: var(--primary-color);
+}
+button{
+    background-color:var(--secondary-color);
+    color: var(--primary-color);
+    padding: 7px;
+    border-radius: 0 10px 10px 0;
+}
+ul{
+    list-style-type: none;
+}
+.container{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    position: relative;
+ 
+
+}
+.right{
+    text-align: left;
+    margin: 30px;
+}
+.profile-pic{
+    border-radius: 10%;
+    height: 360px ;
+    width: 360px;
+    margin: 40px;
+    margin-top: 60px;
+}
+.btn{
+    background-color:var(--secondary-color);
+    width: 90px;
+    padding: 7px;
+    border-radius: 10px ;
+    margin-left: 40px;
+    
+}
+a{
+    text-decoration: none;
+    color: var(--primary-color);
+    
+}
+#icon{
+    position: absolute;
+    right: 50px;
+    top: 50px;
+    border: 1px var(--secondary-color)solid;
+    padding: 5px 10px ;
+    border-radius: 10px;
+}
+.git-logo{
+    height: 100px;
+    padding: 0px;
+
+    position: absolute;
+    top:20px;
+    left: 43%;
+   color: var(--secondary-color);
+  }
+  body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins" , sans-serif;
+  }
