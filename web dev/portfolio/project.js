@@ -18,7 +18,33 @@ right.addEventListener("mouseleave",(e) =>{
 
 })
 
-let nevigation = document.querySelector('.navContainer');
 
 
 
+
+const navigation= document.querySelector('.navContainer');
+const profilePhoto =document.querySelector('.rightBox'); 
+const container = document.querySelectorAll('.item2');
+
+
+
+
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+  
+async function LaodingAnimation() {
+    await sleep(200);
+    navigation.classList.add('trshow');
+    await sleep(2000);
+    profilePhoto.classList.add('show');
+    await sleep(1000);
+    right.classList.add('trshow');
+    await sleep(1000);
+    container.forEach((el)=>{
+           el.classList.add('trshow');
+    })
+
+  }
+  
+  LaodingAnimation();

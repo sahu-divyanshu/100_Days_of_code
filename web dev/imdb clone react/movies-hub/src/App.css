@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins" ,sans-serif;
+    background-color: var(--secondary);
+  color: var(--primary);
+
+}
+:root{
+  --primary:white;
+  --secondary:black;
+}
+.App{
+  background-color: var(--secondary);
+  color: var(--primary);
+}

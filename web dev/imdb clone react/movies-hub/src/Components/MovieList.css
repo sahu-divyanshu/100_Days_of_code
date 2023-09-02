@@ -1,0 +1,12 @@
+.movie-list{
+    padding: 0 2rem 2rem 2rem;
+}
+.list-title{
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+.list-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

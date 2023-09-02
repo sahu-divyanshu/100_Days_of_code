@@ -15,13 +15,14 @@
 }
 .navContainer{
     width: 100%;   
-   
      padding-left: 8%;
     padding-right: 8%;
     min-height: 50px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    transform: translateY(-100%);
+    transition: all linear 2s;
 }
 .container{
     height: 300vh;
@@ -49,7 +50,10 @@ i{
     display: inline;
     padding-right: 7px;
 }
+.rightBox{
+    transition: all linear 2s;
 
+}
 .contentBox{
     width: 84%;
     margin: auto;
@@ -67,6 +71,7 @@ i{
    margin-top: 2%;
     border-radius: 20px;
 }
+
 h1{
     margin-top: 10%;
     margin-bottom: 10%;
@@ -77,6 +82,8 @@ h1{
     background-color: #fae58c;
 background-image: linear-gradient(90deg, #fff4c6 0%, #ffdbc0 100%);
 border-radius: 20px;
+transition: all linear 2s;
+
 }
 .btn {
     background: #000000;
@@ -180,7 +187,6 @@ cursor: pointer;
 .active2 {
     animation-name: cix;
     animation-duration: 4s;
-
     animation-iteration-count: infinite;
     animation-direction: alternate-reverse;
 }
@@ -222,7 +228,8 @@ cursor: pointer;
     justify-content: space-between;
     margin-top: 4%;
 
-    
+    transition: all linear 2s;
+
 }
 .left2 , .right2{
     overflow: hidden;
@@ -243,6 +250,8 @@ cursor: pointer;
     border-radius: 20px;
     cursor: pointer;
     transition: transform .5s;
+    
+
     
 }
 .right2 img:hover{
