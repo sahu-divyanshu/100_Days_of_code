@@ -36,3 +36,7 @@
 .cards-overlay:hover {
     opacity: 1;
 }
+.ds{
+    display: flex;
+    justify-content: space-between;
+}

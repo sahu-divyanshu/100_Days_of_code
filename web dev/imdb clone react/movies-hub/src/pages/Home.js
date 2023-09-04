@@ -26,7 +26,7 @@ const Home = () => {
           <div className='poster-overlay'>
             <div className='poster-title'><h1>{movie.original_title}</h1></div>
               <div className='poster-runtime'>
-               <span className='poster-r'>{movie.release_date.substring(0, 7)}</span> 
+               <span className='poster-r '>{movie.release_date.substring(0, 7)}</span> 
                 <span className='poster-rating poster-r'>
                  {movie.vote_average}{" "}
                   <i class="fa fa-star" aria-hidden="true"> </i>

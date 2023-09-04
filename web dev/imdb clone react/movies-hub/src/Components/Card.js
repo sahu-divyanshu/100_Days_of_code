@@ -25,9 +25,9 @@ const Card = ({movie}) => {
             <img className='cards-img' src={`https://image.tmdb.org/t/p/original${movie.poster_path}`} alt=' '/>
             <div className='cards-overlay'>
                 <div className='card-title'>{movie.original_title}</div>
-                <div>
+                <div className="ds">
                 {movie.release_date.substring(0, 4)}
-                <span>{movie.vote_average } 
+                <span >{movie.vote_average } 
                 <i class="fa fa-star" aria-hidden="true"> </i></span>
                 </div>
             </div>
