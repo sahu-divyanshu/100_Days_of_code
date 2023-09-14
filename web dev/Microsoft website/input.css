@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.slide{
+    flex: 0 0 100%;
+}
+.active{
+    transform: translateX(0);
+}
+.active1{
+    background: #000;
+}
+.nav{
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+    transform: translateX(-178px);
+    background-color:#f2f2f2;
+    font-size: larger;
+    width: 658px;  
+}
+.m{
+    position: absolute;
+    top: 5px;
+    left: 185px;
+    margin-bottom: 20px;
+}
