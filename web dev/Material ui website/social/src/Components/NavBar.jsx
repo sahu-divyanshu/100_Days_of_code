@@ -37,17 +37,21 @@ const useStyles = makeStyles((theme)=>({
         [theme.breakpoints.up("sm")]:{
             display:"inline",
         },
-    }
+    },
+    app:{
+        position:"fixed",
+        top:0,
+    },
 }))
 const NavBar = () => {
     const classes = useStyles();
   return (
-    <AppBar>
+    <AppBar className={classes.app} >
       <Toolbar style={{padding:"0 30px"}} className={classes.tool}>
         <Typography variant="h7" className={classes.logolg}>
             Lama Dev
         </Typography>
-        <Typography className={classes.logosm}>
+        <Typography className={classes.logosm} style={{marginRight:"15px"}}>
             Lama
         </Typography>
         <div className={classes.search}>
