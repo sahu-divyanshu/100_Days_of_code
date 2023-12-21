@@ -55,7 +55,7 @@ i{
 
 }
 .contentBox{
-    width: 84%;
+    width: 88%;
     margin: auto;
     border: 1px solod black;
 
@@ -225,8 +225,10 @@ cursor: pointer;
 }
 .item2{
     display: flex;
-    justify-content: space-between;
-    margin-top: 4%;
+    justify-content:space-evenly;
+
+width: 100%;
+margin:4% auto;
 
     transition: all linear 2s;
 
