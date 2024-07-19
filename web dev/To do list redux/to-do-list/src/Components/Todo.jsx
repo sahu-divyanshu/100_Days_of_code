@@ -31,7 +31,7 @@ const [inputData, setInputData] = useState("");
             return(
               <li className="flex  relative" key={todo.id}>
               <p  className="border-2 border-black p-1 rounded-sm w-48 text-left pl-2" >{todo.text}</p>
-              <p  className="absolute right-9 top-1"  onClick={()=>dispatch(removeTodo(todo.id))}>❌</p>
+              <p  className="absolute right-9 top-1 cursor-pointer"  onClick={()=>dispatch(removeTodo(todo.id))}>❌</p>
          </li>
             )
 
